@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+SEO - Khám Phá Chiến Lược Marketing Đỉnh Cao Tại Seoluoi
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Seoluoi <https://seoluoi.com/>`_ là công ty hàng đầu chuyên cung cấp dịch vụ SEO chuyên nghiệp, giúp các doanh nghiệp tối ưu hóa website để nâng cao thứ hạng trên các công cụ tìm kiếm như Google. Với đội ngũ chuyên gia giàu kinh nghiệm và am hiểu sâu về SEO, Seoluoi.com cam kết mang đến các giải pháp tối ưu hóa từ khóa, cải thiện nội dung, và xây dựng liên kết chất lượng, giúp tăng cường sự hiện diện trực tuyến của doanh nghiệp. Seoluoi giúp khách hàng luôn tiếp cận được nhiều đối tượng tiềm năng hơn, gia tăng doanh thu và phát triển nhiều thương hiệu bền vững trong môi trường kỹ thuật số.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 28/1B ấp Trung Lân, Bà Điểm, Hóc Môn, Hồ Chí Minh, Vietnam. 
 
-   This project is under active development.
+Phone: 0980880866. 
 
-Contents
---------
+Email: info@seoluoi.com. 
 
-.. toctree::
+Website: https://seoluoi.com/
 
-   usage
-   api
+#seo #dichvuseo #trangchuseo #dangkyseo #linkseo
